@@ -222,12 +222,7 @@ input[type="submit"]:hover {
 }
 
 
-@media (min-width: 768px) {
-    .footer {
-        position: fixed;
-        bottom: 0;
-    }
-}
+
 
 @media (max-width: 768px) {
     .header nav ul li {
