@@ -272,7 +272,7 @@ input[type="submit"]:hover {
     height: auto;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    width: calc(33.33% - 20px); /* Ajusta el ancho de cada imagen */
+    width: 23%; /* Ajusta el ancho de cada imagen */
 }
 
 /* Ajustes para pantallas más pequeñas */
