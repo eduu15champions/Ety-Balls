@@ -269,10 +269,10 @@ input[type="submit"]:hover {
 /* Estilos para las imágenes */
 .images-container img {
     max-width: 100%;
-    height: auto;
+    height: 250px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    width: calc(33.33% - 20px); /* Ajusta el ancho de cada imagen */
+    width: calc(280px); /* Ajusta el ancho de cada imagen */
 }
 
 /* Ajustes para pantallas más pequeñas */
